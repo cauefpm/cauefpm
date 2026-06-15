@@ -40,9 +40,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauefpm&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauefpm&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -110,6 +110,6 @@ Transformar conhecimento em soluções reais e iniciar minha carreira como Desen
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=cauefpm&color=blue&style=for-the-badge"/>
 
 </div>
